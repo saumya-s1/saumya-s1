@@ -1,8 +1,3 @@
-- 👋 Hi, I’m Saumya.
-- 👀 I’m interested in *data analytics* and some sort of content or technical writing.
-- 🌱 I’m currently learning *SQL*, *EXCEL* and *python*.
-- 💞️ I’m looking to collaborate on data analysis projects.
-- 📫 How to reach me : iamsaumya0101@gmail.com
   
 
 
